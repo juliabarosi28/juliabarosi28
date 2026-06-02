@@ -6,6 +6,14 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Estou
 
 ---
 
+## 📈 Objetivos Profissionais
+
+Busco oportunidades para desenvolver experiência prática na área de tecnologia, ampliando meus conhecimentos em desenvolvimento de software, programação e inovação tecnológica.
+
+Tenho interesse em participar de projetos que me permitam aprender, colaborar e crescer profissionalmente.
+
+---
+
 ## 🚀 Sobre mim
 
 💻 Atualmente estudando e desenvolvendo conhecimentos em programação, sistemas operacionais e engenharia de software.
@@ -51,30 +59,6 @@ Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Estou
 * Aprendizagem contínua
 * Proatividade
 * Comprometimento com resultados
-
----
-
-## 📚 Formação
-
-**Curso Técnico em Desenvolvimento de Sistemas**
-SESI/SENAI Cruzeiro-Lorena
-
-Áreas de estudo:
-
-* Programação
-* Engenharia de Software
-* Banco de Dados
-* Sistemas Operacionais
-* Desenvolvimento de Projetos
-* Automação e Arduino
-
----
-
-## 📈 Objetivos Profissionais
-
-Busco oportunidades para desenvolver experiência prática na área de tecnologia, ampliando meus conhecimentos em desenvolvimento de software, programação e inovação tecnológica.
-
-Tenho interesse em participar de projetos que me permitam aprender, colaborar e crescer profissionalmente.
 
 ---
 
