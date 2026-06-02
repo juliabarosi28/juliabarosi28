@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Julia Barosi
+# 👋 Olá, eu sou a Julia Barosi
 
 🎓 Estudante do curso técnico em **Desenvolvimento de Sistemas** no **SESI/SENAI Cruzeiro-Lorena**.
 
